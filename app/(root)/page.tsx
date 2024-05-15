@@ -1,6 +1,6 @@
 import HeaderBox from "@/components/group/HeaderBox";
 import TotalBalanceBox from "@/components/group/TotalBalanceBox";
-
+// SLJEDECE JE SIDEBAR - 54:02 - LINK: https://www.youtube.com/watch?v=PuOVqP_cjkE
 export default function DashboardPage() {
     const loggedIn = { firstName: 'Adi' };
     return (
