@@ -1,3 +1,86 @@
+export const SignInInputs = [
+  {
+    id: 1,
+    type: "email",
+    label: "Email",
+    name: "email",
+    placeholder: "Enter your email"
+  },
+  {
+    id: 2,
+    type: "password",
+    label: "Password",
+    name: "password",
+    placeholder: "Enter your password"
+  },
+]
+
+export const SignUpInputs = [
+  {
+    id: 1,
+    type: "text",
+    label: "First Name",
+    name: "firstName",
+    placeholder: "Enter your first name"
+  },
+  {
+    id: 2,
+    type: "text",
+    label: "Last Name",
+    name: "lastName",
+    placeholder: "Enter your last name"
+  },
+  {
+    id: 3,
+    type: "text",
+    label: "Address 1",
+    name: "address1",
+    placeholder: "Enter your address"
+  },
+  {
+    id: 4,
+    type: "text",
+    label: "State",
+    name: "state",
+    placeholder: "Enter your state"
+  },
+  {
+    id: 5,
+    type: "text",
+    label: "Postal Code",
+    name: "postalCode",
+    placeholder: "Enter your postal code"
+  },
+  {
+    id: 6,
+    type: "date",
+    label: "Date of Birth",
+    name: "dateOfBirth",
+    placeholder: "Enter your Date of Birth"
+  },
+  {
+    id: 7,
+    type: "text",
+    label: "SSN",
+    name: "ssn",
+    placeholder: "Enter your SSN"
+  },
+  {
+    id: 8,
+    type: "email",
+    label: "Email",
+    name: "email",
+    placeholder: "Enter your email"
+  },
+  {
+    id: 9,
+    type: "password",
+    label: "Password",
+    name: "password",
+    placeholder: "Enter your password"
+  },
+]
+
 export const sidebarLinks = [
   {
     imgURL: "/icons/home.svg",
